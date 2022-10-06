@@ -1,0 +1,44 @@
+h1 { 
+    color :rgb(4, 0, 255);
+    font-size: 50px;
+}
+img {
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: orangered;
+    padding: 50px;
+    border: 10px solid black;
+    align-items: center;
+    text-align: center;
+} 
+.spanId {
+    font-size: 30px;
+    margin: 50px;
+}
+.divClass{
+    /* width: 51%; */
+    height: 200px;
+}
+.divClass1{
+    /* width:70%; */
+    height: 40px;
+}
+body {
+    background-image: url(https://previews.123rf.com/images/imagesbavaria/imagesbavaria1508/imagesbavaria150800102/44417272-el-fondo-blanco-de-madera-para-una-tarjeta-del-men%C3%BA-con-cubiertos-de-blanco-azul-comprueba-colores-p.jpg);
+    background-size:100%
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
